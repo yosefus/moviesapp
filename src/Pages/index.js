@@ -1,0 +1,10 @@
+export { default as Home } from './Home';
+export { default as CountersApp } from './CountersApp';
+export { default as Customers } from './Customers';
+export { default as MoviesApp } from './MoviesApp';
+export { default as NotFound } from './NotFound';
+export { default as Product } from './Product';
+export { default as Products } from './Products';
+export { default as Rentals } from './Rentals';
+export { default as RentalPage } from './RentalPage';
+export { default as MovieFormPage } from './MovieFormPage';
